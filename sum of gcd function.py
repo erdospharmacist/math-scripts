@@ -1,3 +1,4 @@
+#https://oeis.org/A066862 
 import math
 
 def gcd_sum(n):
